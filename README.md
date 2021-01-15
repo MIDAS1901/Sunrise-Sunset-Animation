@@ -2,6 +2,10 @@
 
 A program for visualizing Sunrise and Sunset phenomenon in 2D using Open Graphics Library. It's entirely coded in C++.
 
+Here's a fast preview.
+
+![sun](https://user-images.githubusercontent.com/62807226/104741281-00b85980-576f-11eb-841e-8194b052497e.gif)
+
 # Instructions for Installation
 
 Make Sure that your OS has OpenGL Graphics installed. Navigate the terminal to the directory where you've downloaded the project. Compile and execute the program using the following commands:

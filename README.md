@@ -8,7 +8,7 @@ Here's a fast preview.
 
 # Instructions for Installation
 
-Make Sure that your OS has OpenGL Graphics installed. Navigate the terminal to the directory where you've downloaded the project. Compile and execute the program using the following commands:
+Make sure that your OS has OpenGL installed. Navigate your terminal to the directory where you've downloaded the project. Compile and execute the program using the following commands:
 
 `g++ sunrise_sunset.cpp -lGL -lGLU -lglut`
 

@@ -14,3 +14,5 @@ Make Sure that your OS has OpenGL Graphics installed. Navigate the terminal to t
 
 1. Use the left mouse button to start/resume the animation.
 2. Use the right mouse button to pause the animation. 
+
+Please feel free to suggest improvements.

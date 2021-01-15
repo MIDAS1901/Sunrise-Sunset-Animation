@@ -2,7 +2,7 @@
 
 A program for visualizing Sunrise and Sunset phenomenon in 2D using Open Graphics Library. It's entirely coded in C++.
 
-Here's a fast preview.
+Here's a preview of the program.
 
 ![sun](https://user-images.githubusercontent.com/62807226/104741281-00b85980-576f-11eb-841e-8194b052497e.gif)
 

@@ -1,6 +1,6 @@
 //SUNSET AND SUNRISE ANIMATION USING OPENGL
 //Submitted by Navneet Das(3231 SE Comp A)
-//Add the <windows.h> header file if you ae operating on windows
+//Add the <windows.h> header file if you are operating on windows
 
 #include<bits/stdc++.h>
 #include<GL/glut.h>

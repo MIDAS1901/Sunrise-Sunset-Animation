@@ -6,9 +6,9 @@ A program for visualizing Sunrise and Sunset phenomenon in 2D using Open Graphic
 
 Make Sure that your OS has OpenGL Graphics installed. Navigate the terminal to the directory where you've downloaded the project. Compile and execute the program using the following commands:
 
-`[g++ sunrise_sunset.cpp -lGL -lGLU -lglut]`
+`g++ sunrise_sunset.cpp -lGL -lGLU -lglut`
 
-`[./a.out]`
+`./a.out`
 
 # Instructions while the program is executing
 
